@@ -1,1 +1,1 @@
-[# part-0.4]{https://www.websequencediagrams.com}
+[# part-0.4]{www.websequencediagrams.com}
